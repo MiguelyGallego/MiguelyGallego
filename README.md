@@ -37,7 +37,7 @@
   </a> 
 </p>
 
-### Abaout me: 
+### About me: 
 I am passionate about Neuroscience and Deep Learning, committed to taking technological innovation to new heights. With a solid background in Big Data, Artificial Intelligence and Machine Learning, as well as practical experience in data analysis projects and development of cutting-edge solutions, I am prepared to face the most demanding challenges in the world of technology.
 
 I am excited about what the future of Artificial Intelligence and Machine Learning holds for us, and I am committed to continuing to grow and contribute to this exciting field. I am always willing to learn, collaborate and face new challenges. I look forward to connecting and collaborating with professionals who are passionate about technology!
