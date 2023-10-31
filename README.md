@@ -2,6 +2,10 @@
 
 ![me](https://github.com/MiguelyGallego/MiguelyGallego/blob/main/githubbanner.png)
 
+Findme in web🌎:
+- [LinkedIn](www.linkedin.com/in/miguel-gallego-becerra)
+- [GitHub](https://github.com/MiguelyGallego)
+
 <!--
 **MiguelyGallego/MiguelyGallego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
