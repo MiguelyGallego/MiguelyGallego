@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Miguel Ángel Gallego
+
+![me](https://github.com/MiguelyGallego/MiguelyGallego/blob/main/githubbanner.png)
 
 <!--
 **MiguelyGallego/MiguelyGallego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
