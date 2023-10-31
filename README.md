@@ -38,9 +38,9 @@
 </p>
 
 ### About me: 
-I am passionate about Neuroscience and Deep Learning, committed to taking technological innovation to new heights. With a solid background in Big Data, Artificial Intelligence and Machine Learning, as well as practical experience in data analysis projects and development of cutting-edge solutions, I am prepared to face the most demanding challenges in the world of technology.
+I am passionate about Neuroscience and Deep Learning, dedicated to pushing the boundaries of technological innovation. With a strong foundation in Big Data, Artificial Intelligence, and Machine Learning, along with hands-on experience in data analysis projects and cutting-edge solution development, I am well-prepared to tackle the most demanding challenges in the world of technology.
 
-I am excited about what the future of Artificial Intelligence and Machine Learning holds for us, and I am committed to continuing to grow and contribute to this exciting field. I am always willing to learn, collaborate and face new challenges. I look forward to connecting and collaborating with professionals who are passionate about technology!
+I am enthusiastic about the promising future of Artificial Intelligence and Machine Learning, and I am committed to continuous growth and contributing to this dynamic field. I am always eager to learn, collaborate, and take on new challenges. I eagerly anticipate connecting and collaborating with like-minded technology enthusiasts!
 
 ### Findme in web🌎:
 - [LinkedIn](https://www.linkedin.com/in/miguel-gallego-becerra)
