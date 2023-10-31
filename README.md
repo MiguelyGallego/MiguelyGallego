@@ -43,7 +43,7 @@ I am passionate about Neuroscience and Deep Learning, committed to taking techno
 I am excited about what the future of Artificial Intelligence and Machine Learning holds for us, and I am committed to continuing to grow and contribute to this exciting field. I am always willing to learn, collaborate and face new challenges. I look forward to connecting and collaborating with professionals who are passionate about technology!
 
 ### Findme in web🌎:
-- [LinkedIn](www.linkedin.com/in/miguel-gallego-becerra)
+- [LinkedIn](https://www.linkedin.com/in/miguel-gallego-becerra)
 - [GitHub](https://github.com/MiguelyGallego)
 
 <!--
